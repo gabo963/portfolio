@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Gabriel Sarmiento Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabo963/portfolio.git"
+  },
+  "author": "gabo963",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabo963/portfolio/issues"
+  },
+  "homepage": "https://github.com/gabo963/portfolio#readme"
+}
