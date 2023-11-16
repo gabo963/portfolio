@@ -6,6 +6,7 @@ function App() {
       <h1>Hola Mundo</h1>
       <h3>Cambios que generen conflictos</h3>
       <h2>Estamos jugando con Andres</h2>
+      <p>que chimba ser TA</p>
     </div>
   );
 }
